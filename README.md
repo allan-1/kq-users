@@ -30,6 +30,8 @@ The UI never talks to Axios, `fetch`, AsyncStorage, or NetInfo directly. It only
 
 <video src="./assets/videos/demo.mp4" controls width="600"></video>
 
+> If the video doesn't play, download it directly: [demo.mp4](assets/videos/demo.mp4)
+
 ---
 
 ## Tech stack
