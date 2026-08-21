@@ -28,7 +28,7 @@ The UI never talks to Axios, `fetch`, AsyncStorage, or NetInfo directly. It only
 
 ## Demo
 
-<video src="./assets/videos/Screen%20Recording%202026-08-21%20at%2012.41.49.mov" controls width="600"></video>
+<video src="./assets/videos/demo.mp4" controls width="600"></video>
 
 ---
 
