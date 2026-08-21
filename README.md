@@ -9,19 +9,26 @@ The UI never talks to Axios, `fetch`, AsyncStorage, or NetInfo directly. It only
 ## Table of contents
 
 1. [Tech stack](#tech-stack)
-2. [Architecture](#architecture)
-3. [Data flow](#data-flow)
-4. [Why AsyncStorage](#why-asyncstorage)
-5. [Caching strategy](#caching-strategy)
-6. [Offline strategy](#offline-strategy)
-7. [State management](#state-management)
-8. [Error normalization](#error-normalization)
-9. [DTOs vs domain models](#dtos-vs-domain-models)
-10. [Project structure](#project-structure)
-11. [Setup & run](#setup--run)
-12. [Environment / configuration](#environment--configuration)
-13. [Testing](#testing)
-14. [Acceptance checklist](#acceptance-checklist)
+2. [Demo](#demo)
+3. [Architecture](#architecture)
+4. [Data flow](#data-flow)
+5. [Why AsyncStorage](#why-asyncstorage)
+6. [Caching strategy](#caching-strategy)
+7. [Offline strategy](#offline-strategy)
+8. [State management](#state-management)
+9. [Error normalization](#error-normalization)
+10. [DTOs vs domain models](#dtos-vs-domain-models)
+11. [Project structure](#project-structure)
+12. [Setup & run](#setup--run)
+13. [Environment / configuration](#environment--configuration)
+14. [Testing](#testing)
+15. [Acceptance checklist](#acceptance-checklist)
+
+---
+
+## Demo
+
+<video src="./assets/videos/Screen%20Recording%202026-08-21%20at%2012.41.49.mov" controls width="600"></video>
 
 ---
 
